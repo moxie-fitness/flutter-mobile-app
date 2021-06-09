@@ -1,0 +1,121 @@
+{
+  "project_info": {
+    "project_number": "124029935499",
+    "firebase_url": "https://moxiefitness-4cadf.firebaseio.com",
+    "project_id": "moxiefitness-4cadf",
+    "storage_bucket": "moxiefitness-4cadf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:124029935499:android:a7e2fc3bce73fdaa",
+        "android_client_info": {
+          "package_name": "com.moxiefitness"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "124029935499-2kd2uatahjmttosnm3dio2mm61pi3in9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.moxiefitness",
+            "certificate_hash": "5e843423aa93092319aea64d8120a4e66438a670"
+          }
+        },
+        {
+          "client_id": "124029935499-99b8u15ogn6nkt1c16712g5v9h7rtfo0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.moxiefitness",
+            "certificate_hash": "a921bf61ec401f4d5f04291f8470f05112c04b63"
+          }
+        },
+        {
+          "client_id": "124029935499-so6s0kphu9pgbfmue62of880vegod4i4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOwiANMxaVSBi8Cg19c_W8VEC-y_BRDyg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "124029935499-so6s0kphu9pgbfmue62of880vegod4i4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "124029935499-d78i3bc0tvdg5pm10pvvn4esiac41i5c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.moxiefitness"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:124029935499:android:4953ae7f659ebcf0",
+        "android_client_info": {
+          "package_name": "com.moxiefitness.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "124029935499-6gnaq7956gopadg29edsjs7rfk7k8t64.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.moxiefitness.app",
+            "certificate_hash": "386f44261cbe584bbb1ef8adeb4ec52bbf070581"
+          }
+        },
+        {
+          "client_id": "124029935499-so6s0kphu9pgbfmue62of880vegod4i4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOwiANMxaVSBi8Cg19c_W8VEC-y_BRDyg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "124029935499-so6s0kphu9pgbfmue62of880vegod4i4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "124029935499-d78i3bc0tvdg5pm10pvvn4esiac41i5c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.moxiefitness"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
